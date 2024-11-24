@@ -1,0 +1,11 @@
+[32mINFO    [0m /Users/liaoxiaoliao/Desktop/PytestAutoApi/logs/info-2024-11-24.log:log_decorator.py:42 
+======================================================
+用例标题: 手机号码首位包含空格
+请求路径: https://www.wanandroid.com/user/login
+请求方式: POST
+请求头:   {'User-Agent': 'python-requests/2.26.0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data; boundary=2fe66cd082394ffca9e8a71b96b24a29', 'Content-Length': '234'}
+请求内容: {'username': ' 18867507063 ', 'password': '12345'}
+接口响应内容: {"data":null,"errorCode":-1,"errorMsg":"账号密码不匹配！"}
+接口响应时长: 244 ms
+Http状态码: 200
+=====================================================

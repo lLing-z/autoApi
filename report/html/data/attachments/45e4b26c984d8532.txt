@@ -1,0 +1,11 @@
+[32mINFO    [0m /Users/liaoxiaoliao/Desktop/PytestAutoApi/logs/info-2024-11-24.log:log_decorator.py:42 
+======================================================
+用例标题: 正常获取个人身份信息
+请求路径: https://www.wanandroid.com/user/lg/userinfo/json
+请求方式: GET
+请求头:   {'User-Agent': 'python-requests/2.26.0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'multipart/form-data;', 'cookie': 'JSESSIONID=288F7443D812691CC56C4AF90EDA5987;'}
+请求内容: None
+接口响应内容: {"errorCode":-1001,"errorMsg":"请先登录！"}
+接口响应时长: 160 ms
+Http状态码: 200
+=====================================================
